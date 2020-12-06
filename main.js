@@ -4,7 +4,7 @@
 
 var urlAddressOfHTMLDocs = 'https://korona.gov.sk'; //string, url adresa HTML dokumentu, ktory sa bude nasledne spracovavat
 var downloadedHTMLName = 'data.html'; //string, nazov suboru, pod  ktorym budeme ukladat stiahhnuty HTML dokument z url adresy vyssie
-var downloadFile = false; //boolean, true- budeme stahovat nove data , false - pouzivame stiahnuty subor
+var downloadFile = true; //boolean, true- budeme stahovat nove data , false - pouzivame stiahnuty subor
 var xlsxFileName = "data.xlsx"; //string, snazov suboru, pod ktorym budeme ukladat XLSX subor
 //============================================
 
